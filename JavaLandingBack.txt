@@ -1,3 +1,8 @@
 BackEnd funcional
 Base de datos
 API creada
+
+Autenticación añadida
+Arreglo de bugs
+Mejoras en legibilidad del código
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
